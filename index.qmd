@@ -1,7 +1,5 @@
 ---
-title: "Seth Meyer, Economist in Training"
+title: "Seth Meyer"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi mom!
